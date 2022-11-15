@@ -1,0 +1,15 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\03-ExercicioFixacao\obj\Debug\net6.0\03-ExercicioFixacao.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\03-ExercicioFixacao\obj\Debug\net6.0\03-ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\03-ExercicioFixacao\obj\Debug\net6.0\03-ExercicioFixacao.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\03-ExercicioFixacao\obj\Debug\net6.0\03-ExercicioFixacao.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\03-ExercicioFixacao\obj\Debug\net6.0\03-ExercicioFixacao.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\03-ExercicioFixacao\bin\Debug\net6.0\03-ExercicioFixacao.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\03-ExercicioFixacao\bin\Debug\net6.0\03-ExercicioFixacao.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\03-ExercicioFixacao\bin\Debug\net6.0\03-ExercicioFixacao.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\03-ExercicioFixacao\bin\Debug\net6.0\03-ExercicioFixacao.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\03-ExercicioFixacao\bin\Debug\net6.0\03-ExercicioFixacao.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\03-ExercicioFixacao\obj\Debug\net6.0\03-ExercicioFixacao.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\03-ExercicioFixacao\obj\Debug\net6.0\refint\03-ExercicioFixacao.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\03-ExercicioFixacao\obj\Debug\net6.0\03-ExercicioFixacao.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\03-ExercicioFixacao\obj\Debug\net6.0\03-ExercicioFixacao.genruntimeconfig.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\03-ExercicioFixacao\obj\Debug\net6.0\ref\03-ExercicioFixacao.dll

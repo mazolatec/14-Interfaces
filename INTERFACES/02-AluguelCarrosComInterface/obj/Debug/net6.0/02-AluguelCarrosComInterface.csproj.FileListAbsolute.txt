@@ -1,0 +1,15 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\02-AluguelCarrosComInterface\bin\Debug\net6.0\02-AluguelCarrosComInterface.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\02-AluguelCarrosComInterface\bin\Debug\net6.0\02-AluguelCarrosComInterface.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\02-AluguelCarrosComInterface\bin\Debug\net6.0\02-AluguelCarrosComInterface.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\02-AluguelCarrosComInterface\bin\Debug\net6.0\02-AluguelCarrosComInterface.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\02-AluguelCarrosComInterface\bin\Debug\net6.0\02-AluguelCarrosComInterface.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\02-AluguelCarrosComInterface\obj\Debug\net6.0\02-AluguelCarrosComInterface.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\02-AluguelCarrosComInterface\obj\Debug\net6.0\02-AluguelCarrosComInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\02-AluguelCarrosComInterface\obj\Debug\net6.0\02-AluguelCarrosComInterface.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\02-AluguelCarrosComInterface\obj\Debug\net6.0\02-AluguelCarrosComInterface.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\02-AluguelCarrosComInterface\obj\Debug\net6.0\02-AluguelCarrosComInterface.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\02-AluguelCarrosComInterface\obj\Debug\net6.0\02-AluguelCarrosComInterface.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\02-AluguelCarrosComInterface\obj\Debug\net6.0\refint\02-AluguelCarrosComInterface.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\02-AluguelCarrosComInterface\obj\Debug\net6.0\02-AluguelCarrosComInterface.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\02-AluguelCarrosComInterface\obj\Debug\net6.0\02-AluguelCarrosComInterface.genruntimeconfig.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\02-AluguelCarrosComInterface\obj\Debug\net6.0\ref\02-AluguelCarrosComInterface.dll
