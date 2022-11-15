@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-ExemploComInterface", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-DevicesResolvidoProblemaHerancaMultipla", "06-DevicesResolvidoProblemaHerancaMultipla\06-DevicesResolvidoProblemaHerancaMultipla.csproj", "{46C44665-BCFA-4F82-B5D2-579A402911E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-InterfaceIcomparable", "07-InterfaceIcomparable\07-InterfaceIcomparable.csproj", "{E8C9E1CF-07F9-4456-AC30-07C8666CF43F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{46C44665-BCFA-4F82-B5D2-579A402911E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46C44665-BCFA-4F82-B5D2-579A402911E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46C44665-BCFA-4F82-B5D2-579A402911E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8C9E1CF-07F9-4456-AC30-07C8666CF43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C9E1CF-07F9-4456-AC30-07C8666CF43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C9E1CF-07F9-4456-AC30-07C8666CF43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C9E1CF-07F9-4456-AC30-07C8666CF43F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

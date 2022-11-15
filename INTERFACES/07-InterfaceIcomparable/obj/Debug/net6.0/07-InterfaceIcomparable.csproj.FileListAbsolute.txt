@@ -1,0 +1,15 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\07-InterfaceIcomparable\bin\Debug\net6.0\07-InterfaceIcomparable.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\07-InterfaceIcomparable\bin\Debug\net6.0\07-InterfaceIcomparable.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\07-InterfaceIcomparable\bin\Debug\net6.0\07-InterfaceIcomparable.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\07-InterfaceIcomparable\bin\Debug\net6.0\07-InterfaceIcomparable.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\07-InterfaceIcomparable\bin\Debug\net6.0\07-InterfaceIcomparable.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\07-InterfaceIcomparable\obj\Debug\net6.0\07-InterfaceIcomparable.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\07-InterfaceIcomparable\obj\Debug\net6.0\07-InterfaceIcomparable.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\07-InterfaceIcomparable\obj\Debug\net6.0\07-InterfaceIcomparable.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\07-InterfaceIcomparable\obj\Debug\net6.0\07-InterfaceIcomparable.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\07-InterfaceIcomparable\obj\Debug\net6.0\07-InterfaceIcomparable.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\07-InterfaceIcomparable\obj\Debug\net6.0\07-InterfaceIcomparable.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\07-InterfaceIcomparable\obj\Debug\net6.0\refint\07-InterfaceIcomparable.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\07-InterfaceIcomparable\obj\Debug\net6.0\07-InterfaceIcomparable.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\07-InterfaceIcomparable\obj\Debug\net6.0\07-InterfaceIcomparable.genruntimeconfig.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\07-InterfaceIcomparable\obj\Debug\net6.0\ref\07-InterfaceIcomparable.dll
