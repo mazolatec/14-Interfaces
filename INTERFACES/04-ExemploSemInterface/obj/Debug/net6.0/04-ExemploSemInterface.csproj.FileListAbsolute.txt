@@ -1,0 +1,15 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\04-ExemploSemInterface\bin\Debug\net6.0\04-ExemploSemInterface.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\04-ExemploSemInterface\bin\Debug\net6.0\04-ExemploSemInterface.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\04-ExemploSemInterface\bin\Debug\net6.0\04-ExemploSemInterface.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\04-ExemploSemInterface\bin\Debug\net6.0\04-ExemploSemInterface.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\04-ExemploSemInterface\bin\Debug\net6.0\04-ExemploSemInterface.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\04-ExemploSemInterface\obj\Debug\net6.0\04-ExemploSemInterface.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\04-ExemploSemInterface\obj\Debug\net6.0\04-ExemploSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\04-ExemploSemInterface\obj\Debug\net6.0\04-ExemploSemInterface.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\04-ExemploSemInterface\obj\Debug\net6.0\04-ExemploSemInterface.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\04-ExemploSemInterface\obj\Debug\net6.0\04-ExemploSemInterface.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\04-ExemploSemInterface\obj\Debug\net6.0\04-ExemploSemInterface.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\04-ExemploSemInterface\obj\Debug\net6.0\refint\04-ExemploSemInterface.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\04-ExemploSemInterface\obj\Debug\net6.0\04-ExemploSemInterface.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\04-ExemploSemInterface\obj\Debug\net6.0\04-ExemploSemInterface.genruntimeconfig.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\14-Interfaces\INTERFACES\04-ExemploSemInterface\obj\Debug\net6.0\ref\04-ExemploSemInterface.dll
