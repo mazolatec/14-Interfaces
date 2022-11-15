@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-AluguelCarrosComInterfac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-ExercicioFixacao", "03-ExercicioFixacao\03-ExercicioFixacao.csproj", "{E9723EC2-FBFA-4960-9C42-644C78B8A944}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ExemploSemInterface", "04-ExemploSemInterface\04-ExemploSemInterface.csproj", "{043326B9-54E2-43A6-BAFA-588377744E39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-ExemploSemInterface", "04-ExemploSemInterface\04-ExemploSemInterface.csproj", "{043326B9-54E2-43A6-BAFA-588377744E39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-ExemploComInterface", "05-ExemploComInterface\05-ExemploComInterface.csproj", "{375724BD-EB63-4228-85A7-18C54B39CB9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-ExemploComInterface", "05-ExemploComInterface\05-ExemploComInterface.csproj", "{375724BD-EB63-4228-85A7-18C54B39CB9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-DevicesResolvidoProblemaHerancaMultipla", "06-DevicesResolvidoProblemaHerancaMultipla\06-DevicesResolvidoProblemaHerancaMultipla.csproj", "{46C44665-BCFA-4F82-B5D2-579A402911E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{375724BD-EB63-4228-85A7-18C54B39CB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{375724BD-EB63-4228-85A7-18C54B39CB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{375724BD-EB63-4228-85A7-18C54B39CB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C44665-BCFA-4F82-B5D2-579A402911E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C44665-BCFA-4F82-B5D2-579A402911E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C44665-BCFA-4F82-B5D2-579A402911E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C44665-BCFA-4F82-B5D2-579A402911E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
